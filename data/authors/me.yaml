@@ -1,0 +1,50 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Zhanshi Zhu
+  given: Zhanshi
+  family: Zhu
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+role: Postdoctoral Researcher
+bio: |
+  Zhanshi Zhu is a Postdoctoral Researcher at King Abdullah University of
+  Science and Technology (KAUST). His research focuses on continual learning
+  for medical image analysis, with particular interests in medical image
+  segmentation, foundation models, knowledge distillation, ophthalmic AI, and
+  robust learning under domain shifts. He is based in Thuwal, Saudi Arabia.
+
+affiliations:
+  - name: King Abdullah University of Science and Technology (KAUST)
+    url: https://www.kaust.edu.sa
+
+links:
+  - icon: at-symbol
+    url: mailto:zhanshi.zhu11@gmail.com
+    label: Email
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=YPXKePgAAAAJ
+    label: Google Scholar
+  - icon: brands/github
+    url: https://github.com/zhuzhanshi
+    label: GitHub
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7158-1293
+    label: ORCID
+
+interests:
+  - Continual Learning
+  - Medical Image Analysis
+  - Medical Image Segmentation
+  - Foundation Models
+  - Ophthalmic AI
+  - Domain Generalization and Adaptation
+
+education: []
+experience: []
+skills: []
+languages: []
+awards: []
