@@ -12,9 +12,9 @@ postnominals: []
 role: Postdoctoral Researcher
 bio: |
   Zhanshi Zhu is a Postdoctoral Researcher at King Abdullah University of
-  Science and Technology (KAUST). His research focuses on continual learning
+  Science and Technology (KAUST), Biomedical Sciences Division. His research focuses on continual learning
   for medical image analysis, with particular interests in medical image
-  segmentation, foundation models, knowledge distillation, ophthalmic AI, and
+  segmentation, foundation models, knowledge distillation, ophthalmic AI, cardiac AI, and
   robust learning under domain shifts. He is based in Thuwal, Saudi Arabia.
 
 affiliations:
@@ -23,7 +23,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:zhanshi.zhu11@gmail.com
+    url: mailto:zhanshi.zhu@kaust.edu.sa
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YPXKePgAAAAJ
@@ -41,6 +41,7 @@ interests:
   - Medical Image Segmentation
   - Foundation Models
   - Ophthalmic AI
+  - Cardiac AI
   - Domain Generalization and Adaptation
 
 education: []

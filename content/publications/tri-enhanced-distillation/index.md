@@ -18,6 +18,9 @@ publication_short: ''
 abstract: 'A continual medical image segmentation framework that improves knowledge diversity, accuracy, and stability through tri-enhanced distillation.'
 summary: 'A continual medical image segmentation framework that improves knowledge diversity, accuracy, and stability through tri-enhanced distillation.'
 featured: false
+hugoblox:
+  ids:
+    doi: '10.1016/j.media.2024.103112'
 links:
   - type: paper
     url: 'https://www.sciencedirect.com/science/article/abs/pii/S1361841524000379'

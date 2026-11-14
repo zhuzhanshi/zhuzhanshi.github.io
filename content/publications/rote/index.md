@@ -8,12 +8,16 @@ authors:
 date: '2026-01-01T00:00:00Z'
 publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['paper-conference']
-publication: '*MICCAI*, Early Accepted'
+publication: '*MICCAI 2026*, LNCS 16884: 472–481, Springer'
+citation_year: '2027'
 publication_short: ''
 featured: false
+hugoblox:
+  ids:
+    doi: '10.1007/978-3-032-38085-2_44'
 links:
   - type: paper
-    url: 'https://www.researchgate.net/publication/405109207_ROTE_Routing-Timescale_Framework_for_Balanced_Expert_Allocation_in_MoE-Based_Continual_Segmentation'
+    url: 'https://doi.org/10.1007/978-3-032-38085-2_44'
   - type: code
     url: 'https://github.com/PerceptionComputingLab/ROTE'
 projects: []

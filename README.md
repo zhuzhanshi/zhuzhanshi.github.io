@@ -1,6 +1,6 @@
-# Academic Homepage
+# Zhanshi Zhu's Academic Homepage
 
-Source repository for a personal academic homepage hosted at
+My academic homepage presents my research, publications, experience, and academic service. It is hosted at
 [https://zhuzhanshi.github.io/](https://zhuzhanshi.github.io/).
 
 The site is built with the [HugoBlox Academic CV template](https://hugoblox.com/templates/academic-cv)

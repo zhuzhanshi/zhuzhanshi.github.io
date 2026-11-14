@@ -17,7 +17,7 @@ sections:
         Harbin, Heilongjiang, China | March 2021 - September 2025
 
         Dissertation: *Domain Continual Learning for Medical Image Segmentation via Knowledge Distillation*  
-        Advisors: Prof. Gongning Luo and Prof. Kuangquan Wang
+        Advisors: Prof. Kuangquan Wang, Prof. Gongning Luo, and Prof. Shuo Li
 
         ### M.Sc. in Software Engineering
 

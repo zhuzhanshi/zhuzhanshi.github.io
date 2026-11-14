@@ -15,10 +15,14 @@ date: '2024-01-01T00:00:00Z'
 publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 publication: '*Physics in Medicine & Biology*, 70(1): 015017'
+citation_year: '2025'
 publication_short: ''
 abstract: 'An improved Patlak-based Ki parametric imaging framework for clinical total-body PET analysis.'
 summary: 'An improved Patlak-based Ki parametric imaging framework for clinical total-body PET analysis.'
 featured: false
+hugoblox:
+  ids:
+    doi: '10.1088/1361-6560/ad9ce4'
 projects: []
 slides: ''
 ---

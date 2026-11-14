@@ -8,7 +8,7 @@ sections:
     content:
       title: 'Research'
       text: |-
-        My research focuses on continual learning for medical image analysis, with particular interest in ophthalmic AI and robust learning under domain shifts.
+        My research focuses on continual learning for medical image analysis, with particular interest in ophthalmic AI, cardiac AI, and robust learning under domain shifts.
 
         ## Research Interests
 
@@ -17,6 +17,7 @@ sections:
         - Medical Image Segmentation
         - Foundation Models
         - Ophthalmic AI
+        - Cardiac AI
         - Domain Generalization and Adaptation
 
         Detailed research themes, collaborators, and supported projects will be added after verification.

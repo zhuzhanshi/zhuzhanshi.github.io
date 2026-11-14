@@ -13,7 +13,7 @@ authors:
 date: '2026-01-01T00:00:00Z'
 publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['article-journal']
-publication: '*IEEE Journal of Biomedical and Health Informatics*, 1–14'
+publication: '*IEEE Journal of Biomedical and Health Informatics*, 30(8): 6682–6695'
 publication_short: ''
 abstract: 'A targeted knowledge rectification strategy for mitigating teacher-originated defects in continual segmentation systems.'
 summary: 'A targeted knowledge rectification strategy for mitigating teacher-originated defects in continual segmentation systems.'

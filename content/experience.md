@@ -14,12 +14,20 @@ sections:
     content:
       title: 'Experience'
       text: |-
-        ### Research Engineer (PET Medical Imaging)
+        ### Postdoctoral Researcher
+
+        **King Abdullah University of Science and Technology (KAUST), Biomedical Sciences Division**
+
+        Thuwal, Saudi Arabia | June 2026 - Present
+
+        Research on continual learning, ophthalmic AI, and cardiac AI with Prof. Yanda Meng, focusing on robust medical image analysis under evolving data distributions.
+
+        ### Research Intern, PET Medical Imaging
 
         **Shanghai United Imaging Healthcare Technology Co., Ltd.**  
         Shanghai, China | July 2021 - June 2025
 
-        Worked on PET cardiac and brain image analysis with clinical deployment experience, as well as dynamic PET parametric modeling and quantitative analysis. The role involved research-driven development of medical imaging systems and participation in PET medical imaging research during an industrial research internship collaboration.
+        Developed learning-based methods for quantitative cardiac and brain PET analysis, including dynamic total-body PET parametric imaging. Designed and evaluated shortened-scan Patlak methods using self-supervised neural networks and efficient machine-learning models. Contributed to clinically oriented imaging-system development and validation.
     design:
       columns: '1'
 ---

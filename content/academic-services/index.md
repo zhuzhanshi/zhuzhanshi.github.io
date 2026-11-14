@@ -8,7 +8,14 @@ sections:
     content:
       title: 'Academic Services'
       text: |-
-        Verified reviewing, organizing, mentoring, and other academic service records will be added here.
+        Reviewer for:
+
+        - MICCAI
+        - AAAI Conference on Artificial Intelligence
+        - IEEE Transactions on Medical Imaging
+        - IEEE Transactions on Biomedical Engineering
+        - IEEE Journal of Biomedical and Health Informatics
+        - Pattern Recognition
     design:
       columns: '1'
 ---
